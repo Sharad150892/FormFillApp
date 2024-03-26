@@ -14,7 +14,7 @@
     <br>
 
     <label for="mother"><b>Mother Name</b></label>
-    <input type="text" placeholder="Enter mother name" name="mother" id="mother" required>
+    <input type="text" placeholder="mother name" name="mother" id="mother" required>
     <br>
 
     <label for="email"><b>Email</b></label>
