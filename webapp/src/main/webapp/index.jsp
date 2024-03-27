@@ -20,7 +20,9 @@
     <label for="father"><b>Father Name</b></label>
     <input type="text" placeholder="father name" name="father" id="father" required>
     <br>
-
+    <label for="brother"><b>Brother Name</b></label>
+    <input type="text" placeholder="brother name" name="brother" id="brother" required>
+    <br>
     <label for="email"><b>Email</b></label>
     <input type="text" placeholder="Enter Email" name="email" id="email" required>
     <br>
