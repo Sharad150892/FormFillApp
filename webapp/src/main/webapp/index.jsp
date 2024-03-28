@@ -26,6 +26,9 @@
     <label for="sister"><b>Sister Name</b></label>
     <input type="text" placeholder="sister name" name="sister" id="sister" required>
     <br>
+    <label for="spouse"><b>Spouse Name</b></label>
+    <input type="text" placeholder="spouse name" name="spouse" id="spouse" required>
+    <br>
 
     <label for="email"><b>Email</b></label>
     <input type="text" placeholder="Enter Email" name="email" id="email" required>
